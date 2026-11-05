@@ -1,2 +1,3 @@
-# proteomics-analysis-demo
-Read-only bilingual showcase of completed proteomics results
+# Independent Proteomics Analysis
+
+Read-only result snapshot, 2026-11-06. English / 中文 navigation. Business controls are disabled. Static result data and figures are public; processing code, model weights, raw files and local paths are not included.
